@@ -64,6 +64,7 @@
             
                 
     <div class="container">
+        <!-- Test -->
     @yield('content')
     </div>
     <footer class="footer">
